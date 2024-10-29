@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "id": "hilistiacore",
   "version": "${version}",
-  "name": "HilistiaCore",
+  "name": "Hilistia Core",
   "description": "The core mod for the Hilistia SMP",
   "authors": [
     "Zenfrii"
   ],
   "contact": {
     "website": "hilistia.com",
-    "repo": "github.com/hilistia/core-mod"
+    "repo": "github.com/Hilistia/core-mod"
   },
   "license": "MIT",
   "icon": "assets/hilistiacore/icon.png",

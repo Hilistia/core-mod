@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "# #",
+    " T ",
+    " E "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "result": {
+    "item": "hilistiacore:suspicious_totem",
+    "count": 1
+  }
+}
