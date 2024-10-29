@@ -13,5 +13,6 @@ public class HilistiaCoreClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
         LOGGER.info("Hello Fabric Client");
+
     }
 }

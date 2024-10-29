@@ -1,0 +1,12 @@
+{
+  "name": "Fate",
+  "icon": "minecraft:writable_book",
+  "category": "hilistiacore:pantheon_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Fate",
+      "text": "The oldest and arguably most important of these timeless entities is Fate. Said to have existed before the dawn of creation, Fate watches over the garden of paths and tends to the wayward travelers who find themselves away from the gardens intended course."
+    }
+  ]
+}

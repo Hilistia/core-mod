@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "pitmap",
+      "file": "hilistiacore:font/titlescreen.png",
+      "height": 128,
+      "ascent": 30,
+      "chars": [
+        "\uE000"
+      ]
+    }
+  ]
+}
