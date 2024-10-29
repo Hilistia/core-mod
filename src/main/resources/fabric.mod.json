@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "hilistiacore",
+  "version": "${version}",
+  "name": "HilistiaCore",
+  "description": "The core mod for the Hilistia SMP",
+  "authors": [
+    "Zenfrii"
+  ],
+  "contact": {
+    "website": "hilistia.com",
+    "repo": "github.com/hilistia/core-mod"
+  },
+  "license": "MIT",
+  "icon": "assets/hilistiacore/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.hilistia.hilistiacore.client.HilistiaCoreClient"
+    ],
+    "main": [
+      "com.hilistia.hilistiacore.HilistiaCore"
+    ]
+  },
+  "mixins": [
+    "hilistiacore.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.8",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}
